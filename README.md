@@ -67,6 +67,7 @@ This chart will allow us to identify peak hours or periods of high order activit
 D.Percentage of Sales by Pizza Category:
 Create a pie chart that shows the distribution of sales across different pizza categories. 
 This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
+
 <img width="380" alt="image" src="https://github.com/Sri-karan/Pizza-sales-project/assets/127074449/ebeef5a0-f57f-40d4-a4ce-9eaf52caee34">
 
 
