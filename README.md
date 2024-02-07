@@ -1,4 +1,4 @@
-# Pizza-sales-project
+# Data analyst portfolio project
 
 #SOFTWARE USED
 
